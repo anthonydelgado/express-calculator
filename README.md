@@ -1,7 +1,3 @@
-# express-calculator
-
-
-
 # Express Calculator
 ### A simple calculator written in Node
 ## Instructions
